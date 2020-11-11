@@ -1,9 +1,7 @@
-﻿using System;
-
-namespace mindbox
+﻿namespace mindbox
 {
   interface IShape
   {
-    double Square();
+    double Area { get; }
   }
 }
