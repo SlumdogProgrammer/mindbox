@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mindbox
+namespace mindbox.Lib
 {
   class Triangle : IShape
   {

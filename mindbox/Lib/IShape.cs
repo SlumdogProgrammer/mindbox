@@ -1,4 +1,4 @@
-﻿namespace mindbox
+﻿namespace mindbox.Lib
 {
   interface IShape
   {
