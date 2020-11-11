@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using mindbox.Lib;
+﻿using mindbox.Lib;
 
 namespace mindbox.Client
 {
